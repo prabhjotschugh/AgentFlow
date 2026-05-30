@@ -84,6 +84,7 @@ For deep-dives into specific modules, refer to our internal technical docs:
 - [🏗️ Backend Foundation](./agentflow-platform/docs/backend_foundation.md)
 - [🧠 Agent Runtime](./agentflow-platform/docs/core_agent_runtime.md)
 - [📊 Workflow Builder](./agentflow-platform/docs/workflow_builder_and_monitoring.md)
+- [🔄 Workflows, Agents & Tokenomics](./agentflow-platform/docs/Workflow_Templates_and_Usage.md)
 
 ---
 
