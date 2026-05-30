@@ -22,7 +22,7 @@ graph TD
     end
 
     subgraph Logic_Layer [Agent Intelligence]
-        LLM[Gemini 1.5/3.1 Flash]
+        LLM[Gemini 3.1 Flash]
         Tools[Toolbelt: Search, Scraping, YT, Calc]
         Mem[Long-Term Memory Engine]
     end
@@ -76,9 +76,6 @@ Workflow routing is handled in `agentflow-platform/backend/runtime/graph_builder
 2.  **Keys**: Add your `GEMINI_API_KEY` and `TELEGRAM_BOT_TOKEN`.
 3.  **Launch**: Run `python start_platform.py`.
 
-> [!CAUTION]
-> **NEVER** commit your `.env` file. The project includes a root `.gitignore` that automatically excludes secrets, logs, and databases.
-
 ---
 
 ## 📚 Technical Documentation
@@ -95,8 +92,3 @@ The Telegram bot acts as a mobile extension of the platform. It uses the same wo
 
 2. Define the nodes (agents) and edges (logic paths).
 3. Run the script to inject the template into the `agentflow_platform.db`.
-
----
-
-## ⚖️ License
-This project is built for the **AgentFlow AI Engineer Challenge**. All rights reserved.
