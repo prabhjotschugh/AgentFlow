@@ -80,10 +80,10 @@ Workflow routing is handled in `agentflow-platform/backend/runtime/graph_builder
 
 ## 📚 Technical Documentation
 For deep-dives into specific modules, refer to our internal technical docs:
-- [🚀 Architecture Deep Dive](./Architecture_DeepDive.md)
-- [🏗️ Backend Foundation](./agentflow-platform/docs/1_backend_foundation.md)
-- [🧠 Agent Runtime](./agentflow-platform/docs/2_core_agent_runtime.md)
-- [📊 Workflow Builder](./agentflow-platform/docs/4_workflow_builder_and_monitoring.md)
+- [🚀 Architecture Deep Dive](./agentflow-platform/docs/Architecture_DeepDive.md)
+- [🏗️ Backend Foundation](./agentflow-platform/docs/backend_foundation.md)
+- [🧠 Agent Runtime](./agentflow-platform/docs/core_agent_runtime.md)
+- [📊 Workflow Builder](./agentflow-platform/docs/workflow_builder_and_monitoring.md)
 
 ---
 
