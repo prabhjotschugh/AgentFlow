@@ -1,4 +1,4 @@
-# Phase 4: Workflow Builder & Live Monitoring
+# Phase 3: Workflow Builder & Live Monitoring
 
 This phase is about bringing the "orchestration" part of the platform to life. We will build the visual workflow editor and the real-time monitoring dashboard.
 
