@@ -43,6 +43,12 @@ graph TD
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/6dcce96b-a950-442a-9673-27a4d12d5dd9
+
+---
+
 ## 📂 Project Structure Map
 
 | Directory | Purpose |
